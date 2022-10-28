@@ -1,4 +1,6 @@
 #demo
 
 this is tutorial!!
-hcfgkhjkffdbggdgfbhg
+
+i have completed cloning, push,commit and add. 
+jxngfjxbngjhb
